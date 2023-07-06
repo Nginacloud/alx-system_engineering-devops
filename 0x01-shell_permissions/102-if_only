@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello
+if su guillaume ; then chown betty hello
