@@ -1,5 +1,5 @@
-total 60
-drwxr-xr-x 2 root root   331 Jul 10 06:51 .
+total 80
+drwxr-xr-x 2 root root  4096 Jul 10 11:05 .
 drwxr-xr-x 6 root root   137 Jul 10 04:04 ..
 -rwxr-xr-x 1 root root    32 Jul 10 03:01 0-hello_world
 -rwxr-xr-x 1 root root    28 Jul 10 03:25 1-confused_smiley
@@ -9,9 +9,11 @@ drwxr-xr-x 6 root root   137 Jul 10 04:04 ..
 -rwxr-xr-x 1 root root    34 Jul 10 04:36 4-lastlines
 -rwxr-xr-x 1 root root    34 Jul 10 04:40 5-firstlines
 -rwxr-xr-x 1 root root    40 Jul 10 05:12 6-third_line
--rwxr-xr-x 1 root root    89 Jul 10 06:48 7-file
--rwxr-xr-x 1 root root    36 Jul 10 06:50 8-cwd_state
+-rw-r--r-- 1 root root 12288 Jul 10 10:56 .6-third_line.swp
+-rwxr-xr-x 1 root root    99 Jul 10 11:03 7-file
+-rwxr-xr-x 1 root root    36 Jul 10 11:05 8-cwd_state
 -rw-r--r-- 1 root root    12 Jul 10 06:22 *\\'Best School'\\*$\?\*\*\*\*\*:)
 -rw-r--r-- 1 root root    12 Jul 10 06:34 *\\\\"Best School\"\\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root     0 Jul 10 06:51 ls_cwd_content
+-rw-r--r-- 1 root root    12 Jul 10 10:52 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Jul 10 11:05 ls_cwd_content
 -rw-r--r-- 1 root root    30 Jul 10 03:40 README.md
